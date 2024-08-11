@@ -15,7 +15,7 @@ This project automates the creation of AWS infrastructure using Terraform. The i
 
 ## Architecture Diagram
 
-![Infrastructure Diagram](./assests/terra.png)
+![Infrastructure Diagram](path_to_your_diagram_image.png)
 
 ## Prerequisites
 
@@ -26,38 +26,5 @@ This project automates the creation of AWS infrastructure using Terraform. The i
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Rohansaini1512/Terraform_Project_on_AWS.git
+   git clone https://github.com/your-repo/terraform-aws-project.git
    cd terraform-aws-project
-
-## Terraform Commands
-
-### Initialize Terraform:
-To initialize your Terraform configuration, run the following command:
-
-```bash
-terraform init
-
-**Validate the configuration**:
-To validate the configuration files, use the command:
-
-```bash
-terraform validate
-
-** Plan the Infrastructure **:
-To create an execution plan and preview the actions Terraform will take, run:
-
-```bash
-terraform plan
-
-** Apply the configuration **:
-To apply the changes required to reach the desired state of the configuration, use:
-
-```bash
-terraform apply
-
-** Clean Up **:
-To destroy all the resources created by this Terraform configuration:
-
-```bash
-terraform destroy
-
