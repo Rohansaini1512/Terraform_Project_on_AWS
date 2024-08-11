@@ -15,7 +15,7 @@ This project automates the creation of AWS infrastructure using Terraform. The i
 
 ## Architecture Diagram
 
-![Infrastructure Diagram](path_to_your_diagram_image.png)
+![Infrastructure Diagram](./assets/terra.png)
 
 ## Prerequisites
 
@@ -26,5 +26,5 @@ This project automates the creation of AWS infrastructure using Terraform. The i
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/terraform-aws-project.git
-   cd terraform-aws-project
+   git clone https://github.com/Rohansaini1512/Terraform_Project_on_AWS.git
+   cd Terraform_Project_on_AWS
