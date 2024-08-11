@@ -15,7 +15,7 @@ This project automates the creation of AWS infrastructure using Terraform. The i
 
 ## Architecture Diagram
 
-![Infrastructure Diagram](./assets/terra.png)
+![Infrastructure Diagram](./assests/terra.png)
 
 ## Prerequisites
 
